@@ -13,7 +13,3 @@ conv(100,160)
 
 #to convert nepali into euro and euro into nepali
 
-def conveuro:
-    print(euro*180)
-    
-   
