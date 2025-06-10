@@ -49,8 +49,17 @@ i=1  #my style
 #     print(nums[idx])
 #     idx+=1
 
-heroes=["ironman","padman","spiderman","batman"]
-idx=0
-while idx<len(heroes):
-    print(heroes[idx])
-    idx+=1
+# heroes=["ironman","padman","spiderman","batman"]
+# idx=0
+# while idx<len(heroes):
+#     print(heroes[idx])
+#     idx+=1
+
+nums=[1,4,9,16,25,36]
+x=36
+i=0
+while i<len(nums):
+    if(nums[i]==x):
+     print("Found at idx",i)
+
+i+=1

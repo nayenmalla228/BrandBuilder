@@ -1,5 +1,2 @@
-#print numbers from 1 to 100
-# i=1
-# while i<=100:
-#     print(i)
-#     i+=1
+nums=[1,4,9,16,25,36]
+x=36
